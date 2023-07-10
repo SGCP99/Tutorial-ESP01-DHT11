@@ -4,3 +4,5 @@ The program will make the ESP01 to create a hotspot where the user can connect a
 
 
 Source: https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
+
+For the MQTT code you must download the two zip files and search in Arduino IDE the DHT library sensor
